@@ -86,14 +86,6 @@ It provides customers with a smooth shopping experience and admins with a simple
 ### 🏠 Homepage
 ![Homepage Screenshot](screenshots/homepage.png)
 
-### 🛒 Product Listing
-![Products Screenshot](screenshots/products.png)
-
-### 📦 Cart & Checkout
-![Cart Screenshot](screenshots/cart.png)
-
-### ⚙️ Admin Dashboard
-![Admin Screenshot](screenshots/admin.png)
 
 > 📌 Place your real screenshots inside a `screenshots/` folder in the repo.
 
