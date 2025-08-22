@@ -1,4 +1,4 @@
-# 🛍️ TONNIShop – Full-Stack E-Commerce Platform
+<img width="1894" height="998" alt="Mens" src="https://github.com/user-attachments/assets/af221e97-f03b-472f-93c8-5a5a6bc3bd3b" /># 🛍️ TONNIShop – Full-Stack E-Commerce Platform
 
 ![Build Status](https://img.shields.io/github/actions/workflow/status/tonni59/TONNIShop-FullStack/deploy.yml?branch=main)
 ![License](https://img.shields.io/github/license/tonni59/TONNIShop-FullStack)
@@ -17,13 +17,28 @@ It provides customers with a smooth shopping experience and admins with a simple
 ![Homepage Screenshot](screenshots/homepage.png)
 
 ### 🛒 Product Listing
-![Products Screenshot](screenshots/products.png)
+![Products Screenshot](screenshots/new-collections.png)
 
-### 📦 Cart & Checkout
-![Cart Screenshot](screenshots/cart.png)
+### 🛒 Popular in Women
+![Products Screenshot](screenshots/popular-women.png)
 
-### ⚙️ Admin Dashboard
-![Admin Screenshot](screenshots/admin.png)
+### 🛒 Mens Products
+![Products Screenshot](screenshots/Mens.png)
+
+### 🛒 Womens Products
+![Products Screenshot](screenshots/Women.png)
+
+### 🛒 Footer
+![Products Screenshot](screenshots/Footer.png)
+
+### 🛒 Single Products
+![Products Screenshot](screenshots/Single-Product.png)
+
+### 📦 Cart 
+![Cart Screenshot](screenshots/Cart.png)
+
+### ⚙️ Checkout
+![Admin Screenshot](screenshots/Checkout.png)
 
 > 📌 Place your real screenshots inside a `screenshots/` folder in the repo.
 
