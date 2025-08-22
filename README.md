@@ -1,70 +1,123 @@
-# Getting Started with Create React App
+# 🛍️ TONNIShop – Full-Stack E-Commerce Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Build Status](https://img.shields.io/github/actions/workflow/status/tonni59/TONNIShop-FullStack/deploy.yml?branch=main)
+![License](https://img.shields.io/github/license/tonni59/TONNIShop-FullStack)
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Node](https://img.shields.io/badge/Backend-Node.js-green)
+![Database](https://img.shields.io/badge/Database-MongoDB-darkgreen)
 
-## Available Scripts
+TONNIShop is a **full-stack e-commerce web application** built with a modern MERN stack.  
+It provides customers with a smooth shopping experience and admins with a simple dashboard to manage products.  
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 📸 Screenshots
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 🏠 Homepage
+![Homepage Screenshot](screenshots/homepage.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 🛒 Product Listing
+![Products Screenshot](screenshots/products.png)
 
-### `npm test`
+### 📦 Cart & Checkout
+![Cart Screenshot](screenshots/cart.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### ⚙️ Admin Dashboard
+![Admin Screenshot](screenshots/admin.png)
 
-### `npm run build`
+> 📌 Place your real screenshots inside a `screenshots/` folder in the repo.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 👤 User
+- Browse products by category  
+- View product details  
+- Add to cart / remove from cart  
+- Checkout with order summary  
+- Responsive design (mobile + desktop)
 
-### `npm run eject`
+### 🛠️ Admin
+- Add, edit, delete products  
+- Manage categories & pricing  
+- Track user orders  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### ⚙️ Technical
+- Frontend: **React + Context API**  
+- Backend: **Node.js + Express**  
+- Database: **MongoDB**  
+- Deployment: **Vercel** (frontend) & **Heroku/Render** (backend)  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📂 Project Structure
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# 🛍️ TONNIShop – Full-Stack E-Commerce Platform
 
-## Learn More
+![Build Status](https://img.shields.io/github/actions/workflow/status/tonni59/TONNIShop-FullStack/deploy.yml?branch=main)
+![License](https://img.shields.io/github/license/tonni59/TONNIShop-FullStack)
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Node](https://img.shields.io/badge/Backend-Node.js-green)
+![Database](https://img.shields.io/badge/Database-MongoDB-darkgreen)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+TONNIShop is a **full-stack e-commerce web application** built with a modern MERN stack.  
+It provides customers with a smooth shopping experience and admins with a simple dashboard to manage products.  
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 📸 Screenshots
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### 🏠 Homepage
+![Homepage Screenshot](screenshots/homepage.png)
 
-### Analyzing the Bundle Size
+### 🛒 Product Listing
+![Products Screenshot](screenshots/products.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### 📦 Cart & Checkout
+![Cart Screenshot](screenshots/cart.png)
 
-### Making a Progressive Web App
+### ⚙️ Admin Dashboard
+![Admin Screenshot](screenshots/admin.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+> 📌 Place your real screenshots inside a `screenshots/` folder in the repo.
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 🚀 Features
 
-### Deployment
+### 👤 User
+- Browse products by category  
+- View product details  
+- Add to cart / remove from cart  
+- Checkout with order summary  
+- Responsive design (mobile + desktop)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### 🛠️ Admin
+- Add, edit, delete products  
+- Manage categories & pricing  
+- Track user orders  
 
-### `npm run build` fails to minify
+### ⚙️ Technical
+- Frontend: **React + Context API**  
+- Backend: **Node.js + Express**  
+- Database: **MongoDB**  
+- Deployment: **Vercel** (frontend) & **Heroku/Render** (backend)  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+## 📂 Project Structure
+
+📊 Roadmap
+ User authentication (JWT)
+ Wishlist & favorites
+ Payment gateway integration
+ Order tracking system
+🤝 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
+📜 License
+Distributed under the MIT License. See LICENSE for details.
+👩‍💻 Author
+Fahmida Ahmed Tonni
+💼 Machine Learning Engineer | 💡 Full-Stack Enthusiast
+🌐 Portfolio Website | LinkedIn | GitHub
